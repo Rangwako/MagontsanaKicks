@@ -10,7 +10,7 @@ The project demonstrates practical SQL skills, including:
 - Aggregation and statistics (average price, total stock)
 
 ---
-
+![Image Alt](https://github.com/Rangwako/MagontsanaKicks/blob/07b2f47ef33fb2c29851b57b083b39d72d76e5f5/store.PNG)
 ## Database Schema
 
 The database contains a single table `sneakers` with the following columns:
